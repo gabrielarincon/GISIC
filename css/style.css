@@ -21,14 +21,11 @@ body{
     background-color: var(--bgsecond);
 }
 /*-----Logo UCC-----*/
-.logo{
-    background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(55,113,179,0.8519608527004552) 52%, rgba(55,113,179,1) 100%);
-}
+
 /*-----Navbar-----*/
 .nav{
     background-color: var(--bgwhite);
-    
+    height: 50px;
       
 }
 .icon{
@@ -62,3 +59,5 @@ body{
     display: flex;
     align-items: center;
 }
+/*main*/
+
