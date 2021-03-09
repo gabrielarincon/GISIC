@@ -94,4 +94,24 @@ body{
     padding: 20px;
 }
 
+.pie_pagina{
+    background-color: #333333;
+    padding: 20px 0;
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+}
+
+.acreditaciones {
+    padding: 10px 0;
+}
+.log-acre {
+    text-align: center;
+    padding: 0 15px;
+    float: left;
+}
 
