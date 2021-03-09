@@ -82,7 +82,7 @@ body{
     /* border: 1px solid red; */
     background-color: white;
     /* width: 540px; */
-    width: 100%
+    width: 100%;
     height: 185px;
     margin-bottom: 10px;
     border-bottom: 10px;
@@ -145,15 +145,18 @@ body{
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 0px;
+    
 }
 
 .acreditaciones {
     padding: 10px 0;
+    
 }
 .log-acre {
     text-align: center;
     padding: 0 15px;
     float: left;
+    width: 50%;
 }
 
 .log-acre img {
